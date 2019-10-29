@@ -11,7 +11,7 @@ product_name VARCHAR(100),
 
 department_name VARCHAR(100),
 
-price DECIMAL (10,2) NOT NULL,
+price DECIMAL (10,4) NOT NULL,
 
 stock_quantity INT default 0,
 
