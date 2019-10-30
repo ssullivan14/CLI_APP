@@ -1,3 +1,3 @@
 # CLI_APP
 
-[functional app](../images/functional-picture.PNG)
+![functional app](../images/functional-picture.PNG)
